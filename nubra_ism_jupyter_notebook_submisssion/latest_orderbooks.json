@@ -1,0 +1,1122 @@
+{
+  "1107023": {
+    "timestamp": 1767086993956580458,
+    "best_bid": 330,
+    "best_bid_qty": 6045,
+    "best_ask": 335,
+    "best_ask_qty": 7085
+  },
+  "1107049": {
+    "timestamp": 1767086988829618068,
+    "best_bid": 120,
+    "best_bid_qty": 128505,
+    "best_ask": 125,
+    "best_ask_qty": 25805
+  },
+  "1106987": {
+    "timestamp": 1767086993962068846,
+    "best_bid": 27525,
+    "best_bid_qty": 195,
+    "best_ask": 27655,
+    "best_ask_qty": 585
+  },
+  "1106959": {
+    "timestamp": 1767086993826969244,
+    "best_bid": 94070,
+    "best_bid_qty": 195,
+    "best_ask": 94905,
+    "best_ask_qty": 65
+  },
+  "1107034": {
+    "timestamp": 1767086993960246489,
+    "best_bid": 90260,
+    "best_bid_qty": 65,
+    "best_ask": 90595,
+    "best_ask_qty": 65
+  },
+  "1106962": {
+    "timestamp": 1767086993898049588,
+    "best_bid": 315,
+    "best_bid_qty": 4355,
+    "best_ask": 320,
+    "best_ask_qty": 4745
+  },
+  "1107061": {
+    "timestamp": 1767086989953340549,
+    "best_bid": 95,
+    "best_bid_qty": 453375,
+    "best_ask": 100,
+    "best_ask_qty": 229710
+  },
+  "1106956": {
+    "timestamp": 1767086992601682128,
+    "best_bid": 265,
+    "best_bid_qty": 975,
+    "best_ask": 270,
+    "best_ask_qty": 1560
+  },
+  "1107039": {
+    "timestamp": 1767086991929617691,
+    "best_bid": 160,
+    "best_bid_qty": 2405,
+    "best_ask": 165,
+    "best_ask_qty": 2470
+  },
+  "1106990": {
+    "timestamp": 1767086993964512732,
+    "best_bid": 4210,
+    "best_bid_qty": 325,
+    "best_ask": 4220,
+    "best_ask_qty": 195
+  },
+  "1106939": {
+    "timestamp": 1767086992322723973,
+    "best_bid": 142965,
+    "best_bid_qty": 65,
+    "best_ask": 145945,
+    "best_ask_qty": 65
+  },
+  "1107074": {
+    "timestamp": 1767086993721483838,
+    "best_bid": 188595,
+    "best_bid_qty": 65,
+    "best_ask": 190215,
+    "best_ask_qty": 65
+  },
+  "1107052": {
+    "timestamp": 1767086992322279175,
+    "best_bid": 133455,
+    "best_bid_qty": 65,
+    "best_ask": 136400,
+    "best_ask_qty": 65
+  },
+  "1107017": {
+    "timestamp": 1767086993951718205,
+    "best_bid": 615,
+    "best_bid_qty": 4875,
+    "best_ask": 625,
+    "best_ask_qty": 9100
+  },
+  "1107036": {
+    "timestamp": 1767086993957338632,
+    "best_bid": 95150,
+    "best_bid_qty": 65,
+    "best_ask": 95760,
+    "best_ask_qty": 65
+  },
+  "1106991": {
+    "timestamp": 1767086993963872440,
+    "best_bid": 19990,
+    "best_bid_qty": 195,
+    "best_ask": 20040,
+    "best_ask_qty": 260
+  },
+  "1106996": {
+    "timestamp": 1767086993963728168,
+    "best_bid": 9115,
+    "best_bid_qty": 845,
+    "best_ask": 9140,
+    "best_ask_qty": 1365
+  },
+  "1106982": {
+    "timestamp": 1767086993962217078,
+    "best_bid": 1375,
+    "best_bid_qty": 3120,
+    "best_ask": 1385,
+    "best_ask_qty": 1365
+  },
+  "1106969": {
+    "timestamp": 1767086993960132539,
+    "best_bid": 69570,
+    "best_bid_qty": 65,
+    "best_ask": 69800,
+    "best_ask_qty": 195
+  },
+  "1107021": {
+    "timestamp": 1767086993956889250,
+    "best_bid": 380,
+    "best_bid_qty": 13390,
+    "best_ask": 385,
+    "best_ask_qty": 4290
+  },
+  "1107062": {
+    "timestamp": 1767086992322152177,
+    "best_bid": 158615,
+    "best_bid_qty": 65,
+    "best_ask": 161310,
+    "best_ask_qty": 65
+  },
+  "1106989": {
+    "timestamp": 1767086993963855670,
+    "best_bid": 23655,
+    "best_bid_qty": 2990,
+    "best_ask": 23665,
+    "best_ask_qty": 195
+  },
+  "1107012": {
+    "timestamp": 1767086993960574592,
+    "best_bid": 36820,
+    "best_bid_qty": 130,
+    "best_ask": 36940,
+    "best_ask_qty": 260
+  },
+  "1106984": {
+    "timestamp": 1767086993964035801,
+    "best_bid": 1795,
+    "best_bid_qty": 1755,
+    "best_ask": 1805,
+    "best_ask_qty": 1430
+  },
+  "1107022": {
+    "timestamp": 1767086993963948978,
+    "best_bid": 60540,
+    "best_bid_qty": 130,
+    "best_ask": 60785,
+    "best_ask_qty": 65
+  },
+  "1106920": {
+    "timestamp": 1767086917943381355,
+    "best_bid": 140,
+    "best_bid_qty": 650,
+    "best_ask": 150,
+    "best_ask_qty": 390
+  },
+  "1106972": {
+    "timestamp": 1767086993925421780,
+    "best_bid": 515,
+    "best_bid_qty": 260,
+    "best_ask": 520,
+    "best_ask_qty": 2340
+  },
+  "1106978": {
+    "timestamp": 1767086993960093042,
+    "best_bid": 835,
+    "best_bid_qty": 2340,
+    "best_ask": 845,
+    "best_ask_qty": 2405
+  },
+  "1107041": {
+    "timestamp": 1767086993917536974,
+    "best_bid": 140,
+    "best_bid_qty": 112450,
+    "best_ask": 145,
+    "best_ask_qty": 78650
+  },
+  "1107029": {
+    "timestamp": 1767086993626823690,
+    "best_bid": 205,
+    "best_bid_qty": 39845,
+    "best_ask": 215,
+    "best_ask_qty": 23530
+  },
+  "1107056": {
+    "timestamp": 1767086992322252734,
+    "best_bid": 143440,
+    "best_bid_qty": 65,
+    "best_ask": 146365,
+    "best_ask_qty": 65
+  },
+  "1107060": {
+    "timestamp": 1767086992322244331,
+    "best_bid": 153630,
+    "best_bid_qty": 65,
+    "best_ask": 156325,
+    "best_ask_qty": 65
+  },
+  "1107016": {
+    "timestamp": 1767086993876213427,
+    "best_bid": 46070,
+    "best_bid_qty": 65,
+    "best_ask": 46310,
+    "best_ask_qty": 65
+  },
+  "1107065": {
+    "timestamp": 1767086985396243927,
+    "best_bid": 105,
+    "best_bid_qty": 16965,
+    "best_ask": 110,
+    "best_ask_qty": 16055
+  },
+  "1106950": {
+    "timestamp": 1767086986194709053,
+    "best_bid": 215,
+    "best_bid_qty": 10010,
+    "best_ask": 220,
+    "best_ask_qty": 13130
+  },
+  "1106935": {
+    "timestamp": 1767086993568058776,
+    "best_bid": 152930,
+    "best_bid_qty": 65,
+    "best_ask": 155805,
+    "best_ask_qty": 65
+  },
+  "1107001": {
+    "timestamp": 1767086993963842988,
+    "best_bid": 6650,
+    "best_bid_qty": 65,
+    "best_ask": 6655,
+    "best_ask_qty": 520
+  },
+  "1106981": {
+    "timestamp": 1767086993960158117,
+    "best_bid": 40715,
+    "best_bid_qty": 65,
+    "best_ask": 40860,
+    "best_ask_qty": 65
+  },
+  "1107020": {
+    "timestamp": 1767086993934280205,
+    "best_bid": 55705,
+    "best_bid_qty": 65,
+    "best_ask": 56075,
+    "best_ask_qty": 65
+  },
+  "1107027": {
+    "timestamp": 1767086993922430175,
+    "best_bid": 235,
+    "best_bid_qty": 2860,
+    "best_ask": 240,
+    "best_ask_qty": 5655
+  },
+  "1106952": {
+    "timestamp": 1767086990784845550,
+    "best_bid": 240,
+    "best_bid_qty": 650,
+    "best_ask": 250,
+    "best_ask_qty": 2210
+  },
+  "1106951": {
+    "timestamp": 1767086992322825534,
+    "best_bid": 113130,
+    "best_bid_qty": 65,
+    "best_ask": 115980,
+    "best_ask_qty": 65
+  },
+  "1107053": {
+    "timestamp": 1767086988905493119,
+    "best_bid": 110,
+    "best_bid_qty": 174915,
+    "best_ask": 115,
+    "best_ask_qty": 101725
+  },
+  "1106976": {
+    "timestamp": 1767086993892706853,
+    "best_bid": 680,
+    "best_bid_qty": 3835,
+    "best_ask": 690,
+    "best_ask_qty": 4485
+  },
+  "1107075": {
+    "timestamp": 1767086985179497084,
+    "best_bid": 90,
+    "best_bid_qty": 65455,
+    "best_ask": 95,
+    "best_ask_qty": 23530
+  },
+  "1106929": {
+    "timestamp": 1767086992322773860,
+    "best_bid": 167885,
+    "best_bid_qty": 65,
+    "best_ask": 170610,
+    "best_ask_qty": 65
+  },
+  "1107066": {
+    "timestamp": 1767086992322269220,
+    "best_bid": 168305,
+    "best_bid_qty": 65,
+    "best_ask": 171490,
+    "best_ask_qty": 65
+  },
+  "1106932": {
+    "timestamp": 1767086874628790641,
+    "best_bid": 150,
+    "best_bid_qty": 1300,
+    "best_ask": 170,
+    "best_ask_qty": 650
+  },
+  "1107054": {
+    "timestamp": 1767086992324970851,
+    "best_bid": 138445,
+    "best_bid_qty": 65,
+    "best_ask": 141385,
+    "best_ask_qty": 65
+  },
+  "1106944": {
+    "timestamp": 1767086897732070206,
+    "best_bid": 195,
+    "best_bid_qty": 1170,
+    "best_ask": 205,
+    "best_ask_qty": 1300
+  },
+  "1107048": {
+    "timestamp": 1767086992322299004,
+    "best_bid": 123520,
+    "best_bid_qty": 65,
+    "best_ask": 126435,
+    "best_ask_qty": 65
+  },
+  "1106983": {
+    "timestamp": 1767086993962187685,
+    "best_bid": 36205,
+    "best_bid_qty": 195,
+    "best_ask": 36325,
+    "best_ask_qty": 130
+  },
+  "1107003": {
+    "timestamp": 1767086993964140295,
+    "best_bid": 5030,
+    "best_bid_qty": 390,
+    "best_ask": 5050,
+    "best_ask_qty": 1235
+  },
+  "1106968": {
+    "timestamp": 1767086993725705175,
+    "best_bid": 425,
+    "best_bid_qty": 3185,
+    "best_ask": 435,
+    "best_ask_qty": 6045
+  },
+  "1106955": {
+    "timestamp": 1767086992476426560,
+    "best_bid": 103650,
+    "best_bid_qty": 65,
+    "best_ask": 105955,
+    "best_ask_qty": 130
+  },
+  "1106980": {
+    "timestamp": 1767086993962370586,
+    "best_bid": 1055,
+    "best_bid_qty": 1300,
+    "best_ask": 1060,
+    "best_ask_qty": 1040
+  },
+  "1106918": {
+    "timestamp": 1767086992865598504,
+    "best_bid": 125,
+    "best_bid_qty": 63310,
+    "best_ask": 130,
+    "best_ask_qty": 14690
+  },
+  "1106974": {
+    "timestamp": 1767086993388117455,
+    "best_bid": 595,
+    "best_bid_qty": 4420,
+    "best_ask": 605,
+    "best_ask_qty": 4615
+  },
+  "1106995": {
+    "timestamp": 1767086993963924689,
+    "best_bid": 13590,
+    "best_bid_qty": 130,
+    "best_ask": 13620,
+    "best_ask_qty": 325
+  },
+  "1106930": {
+    "timestamp": 1767086965536529712,
+    "best_bid": 145,
+    "best_bid_qty": 2470,
+    "best_ask": 150,
+    "best_ask_qty": 3705
+  },
+  "1107069": {
+    "timestamp": 1767086978734890697,
+    "best_bid": 105,
+    "best_bid_qty": 10400,
+    "best_ask": 110,
+    "best_ask_qty": 31135
+  },
+  "1107046": {
+    "timestamp": 1767086993954109930,
+    "best_bid": 119890,
+    "best_bid_qty": 390,
+    "best_ask": 120690,
+    "best_ask_qty": 390
+  },
+  "1106931": {
+    "timestamp": 1767086992322767743,
+    "best_bid": 162880,
+    "best_bid_qty": 65,
+    "best_ask": 165625,
+    "best_ask_qty": 65
+  },
+  "1107025": {
+    "timestamp": 1767086993963423431,
+    "best_bid": 290,
+    "best_bid_qty": 9880,
+    "best_ask": 295,
+    "best_ask_qty": 4810
+  },
+  "1107006": {
+    "timestamp": 1767086993960353984,
+    "best_bid": 24220,
+    "best_bid_qty": 195,
+    "best_ask": 24290,
+    "best_ask_qty": 65
+  },
+  "1107057": {
+    "timestamp": 1767086993188699445,
+    "best_bid": 105,
+    "best_bid_qty": 603850,
+    "best_ask": 110,
+    "best_ask_qty": 169000
+  },
+  "1106970": {
+    "timestamp": 1767086993913954575,
+    "best_bid": 475,
+    "best_bid_qty": 10855,
+    "best_ask": 480,
+    "best_ask_qty": 17095
+  },
+  "1107064": {
+    "timestamp": 1767086992322168447,
+    "best_bid": 163360,
+    "best_bid_qty": 65,
+    "best_ask": 166485,
+    "best_ask_qty": 65
+  },
+  "1107059": {
+    "timestamp": 1767086991956949982,
+    "best_bid": 100,
+    "best_bid_qty": 3250,
+    "best_ask": 105,
+    "best_ask_qty": 4485
+  },
+  "1106921": {
+    "timestamp": 1767086992322696398,
+    "best_bid": 187120,
+    "best_bid_qty": 65,
+    "best_ask": 191050,
+    "best_ask_qty": 65
+  },
+  "1107035": {
+    "timestamp": 1767086992551101457,
+    "best_bid": 165,
+    "best_bid_qty": 3250,
+    "best_ask": 170,
+    "best_ask_qty": 7865
+  },
+  "1106999": {
+    "timestamp": 1767086993963818394,
+    "best_bid": 8620,
+    "best_bid_qty": 130,
+    "best_ask": 8645,
+    "best_ask_qty": 1105
+  },
+  "1107043": {
+    "timestamp": 1767086991928039730,
+    "best_bid": 135,
+    "best_bid_qty": 2470,
+    "best_ask": 145,
+    "best_ask_qty": 7280
+  },
+  "1107000": {
+    "timestamp": 1767086993963887143,
+    "best_bid": 14125,
+    "best_bid_qty": 195,
+    "best_ask": 14160,
+    "best_ask_qty": 780
+  },
+  "1106917": {
+    "timestamp": 1767086993956583466,
+    "best_bid": 198665,
+    "best_bid_qty": 65,
+    "best_ask": 199240,
+    "best_ask_qty": 65
+  },
+  "1107050": {
+    "timestamp": 1767086992322283401,
+    "best_bid": 128465,
+    "best_bid_qty": 65,
+    "best_ask": 131425,
+    "best_ask_qty": 65
+  },
+  "1106998": {
+    "timestamp": 1767086993963785396,
+    "best_bid": 11485,
+    "best_bid_qty": 65,
+    "best_ask": 11500,
+    "best_ask_qty": 2015
+  },
+  "1107073": {
+    "timestamp": 1767086977547283467,
+    "best_bid": 90,
+    "best_bid_qty": 54925,
+    "best_ask": 95,
+    "best_ask_qty": 12870
+  },
+  "1106919": {
+    "timestamp": 1767086992322300117,
+    "best_bid": 192150,
+    "best_bid_qty": 65,
+    "best_ask": 196145,
+    "best_ask_qty": 65
+  },
+  "1106945": {
+    "timestamp": 1767086992322833458,
+    "best_bid": 127940,
+    "best_bid_qty": 65,
+    "best_ask": 130765,
+    "best_ask_qty": 65
+  },
+  "1107045": {
+    "timestamp": 1767086992405164353,
+    "best_bid": 130,
+    "best_bid_qty": 165230,
+    "best_ask": 135,
+    "best_ask_qty": 51155
+  },
+  "1106947": {
+    "timestamp": 1767086992494052807,
+    "best_bid": 123070,
+    "best_bid_qty": 65,
+    "best_ask": 126015,
+    "best_ask_qty": 65
+  },
+  "1107055": {
+    "timestamp": 1767086991940639412,
+    "best_bid": 100,
+    "best_bid_qty": 70395,
+    "best_ask": 105,
+    "best_ask_qty": 45175
+  },
+  "1107032": {
+    "timestamp": 1767086993927830701,
+    "best_bid": 84630,
+    "best_bid_qty": 65,
+    "best_ask": 85965,
+    "best_ask_qty": 65
+  },
+  "1106933": {
+    "timestamp": 1767086992470052194,
+    "best_bid": 157915,
+    "best_bid_qty": 65,
+    "best_ask": 160790,
+    "best_ask_qty": 65
+  },
+  "1107008": {
+    "timestamp": 1767086993957299914,
+    "best_bid": 28200,
+    "best_bid_qty": 65,
+    "best_ask": 28290,
+    "best_ask_qty": 65
+  },
+  "1107013": {
+    "timestamp": 1767086993960095923,
+    "best_bid": 1020,
+    "best_bid_qty": 1300,
+    "best_ask": 1030,
+    "best_ask_qty": 4550
+  },
+  "1107040": {
+    "timestamp": 1767086992322711227,
+    "best_bid": 103610,
+    "best_bid_qty": 65,
+    "best_ask": 106510,
+    "best_ask_qty": 65
+  },
+  "1106954": {
+    "timestamp": 1767086992601820583,
+    "best_bid": 245,
+    "best_bid_qty": 5655,
+    "best_ask": 250,
+    "best_ask_qty": 8450
+  },
+  "1106979": {
+    "timestamp": 1767086993959058763,
+    "best_bid": 45290,
+    "best_bid_qty": 65,
+    "best_ask": 45560,
+    "best_ask_qty": 130
+  },
+  "1107063": {
+    "timestamp": 1767086993417316254,
+    "best_bid": 90,
+    "best_bid_qty": 48230,
+    "best_ask": 95,
+    "best_ask_qty": 10595
+  },
+  "1106927": {
+    "timestamp": 1767086993730394205,
+    "best_bid": 172280,
+    "best_bid_qty": 65,
+    "best_ask": 176040,
+    "best_ask_qty": 65
+  },
+  "1106940": {
+    "timestamp": 1767086875328930430,
+    "best_bid": 170,
+    "best_bid_qty": 1755,
+    "best_ask": 185,
+    "best_ask_qty": 130
+  },
+  "1106997": {
+    "timestamp": 1767086993963640638,
+    "best_bid": 10875,
+    "best_bid_qty": 1430,
+    "best_ask": 10900,
+    "best_ask_qty": 1430
+  },
+  "1106988": {
+    "timestamp": 1767086993964110627,
+    "best_bid": 3165,
+    "best_bid_qty": 520,
+    "best_ask": 3175,
+    "best_ask_qty": 195
+  },
+  "1106924": {
+    "timestamp": 1767086965935020067,
+    "best_bid": 145,
+    "best_bid_qty": 1170,
+    "best_ask": 165,
+    "best_ask_qty": 1235
+  },
+  "1107047": {
+    "timestamp": 1767086991927807340,
+    "best_bid": 115,
+    "best_bid_qty": 27430,
+    "best_ask": 125,
+    "best_ask_qty": 4745
+  },
+  "1107068": {
+    "timestamp": 1767086992322235870,
+    "best_bid": 173285,
+    "best_bid_qty": 65,
+    "best_ask": 177060,
+    "best_ask_qty": 65
+  },
+  "1106971": {
+    "timestamp": 1767086993922098373,
+    "best_bid": 64200,
+    "best_bid_qty": 130,
+    "best_ask": 66045,
+    "best_ask_qty": 65
+  },
+  "1106934": {
+    "timestamp": 1767086958577939882,
+    "best_bid": 155,
+    "best_bid_qty": 8190,
+    "best_ask": 160,
+    "best_ask_qty": 520
+  },
+  "1107044": {
+    "timestamp": 1767086992322299058,
+    "best_bid": 113600,
+    "best_bid_qty": 65,
+    "best_ask": 116465,
+    "best_ask_qty": 65
+  },
+  "1106936": {
+    "timestamp": 1767086875029089101,
+    "best_bid": 155,
+    "best_bid_qty": 4095,
+    "best_ask": 170,
+    "best_ask_qty": 1040
+  },
+  "1107019": {
+    "timestamp": 1767086993799589823,
+    "best_bid": 480,
+    "best_bid_qty": 10855,
+    "best_ask": 490,
+    "best_ask_qty": 8645
+  },
+  "1107002": {
+    "timestamp": 1767086993964524852,
+    "best_bid": 17150,
+    "best_bid_qty": 325,
+    "best_ask": 17190,
+    "best_ask_qty": 130
+  },
+  "1107058": {
+    "timestamp": 1767086993935221541,
+    "best_bid": 148885,
+    "best_bid_qty": 65,
+    "best_ask": 150645,
+    "best_ask_qty": 65
+  },
+  "1106943": {
+    "timestamp": 1767086992322831153,
+    "best_bid": 132800,
+    "best_bid_qty": 65,
+    "best_ask": 135750,
+    "best_ask_qty": 65
+  },
+  "1107037": {
+    "timestamp": 1767086993633930175,
+    "best_bid": 170,
+    "best_bid_qty": 163085,
+    "best_ask": 175,
+    "best_ask_qty": 154440
+  },
+  "1106942": {
+    "timestamp": 1767086984113517743,
+    "best_bid": 175,
+    "best_bid_qty": 7410,
+    "best_ask": 180,
+    "best_ask_qty": 13000
+  },
+  "1106960": {
+    "timestamp": 1767086993564981778,
+    "best_bid": 305,
+    "best_bid_qty": 1040,
+    "best_ask": 310,
+    "best_ask_qty": 4095
+  },
+  "1107015": {
+    "timestamp": 1767086993960692927,
+    "best_bid": 775,
+    "best_bid_qty": 1625,
+    "best_ask": 785,
+    "best_ask_qty": 3185
+  },
+  "1106957": {
+    "timestamp": 1767086993960147682,
+    "best_bid": 99275,
+    "best_bid_qty": 65,
+    "best_ask": 99645,
+    "best_ask_qty": 65
+  },
+  "1106946": {
+    "timestamp": 1767086990771138357,
+    "best_bid": 195,
+    "best_bid_qty": 5005,
+    "best_ask": 200,
+    "best_ask_qty": 14430
+  },
+  "1107033": {
+    "timestamp": 1767086993791723785,
+    "best_bid": 170,
+    "best_bid_qty": 35945,
+    "best_ask": 175,
+    "best_ask_qty": 15080
+  },
+  "1106958": {
+    "timestamp": 1767086992855875277,
+    "best_bid": 295,
+    "best_bid_qty": 32305,
+    "best_ask": 300,
+    "best_ask_qty": 51155
+  },
+  "1106985": {
+    "timestamp": 1767086993960112898,
+    "best_bid": 31700,
+    "best_bid_qty": 65,
+    "best_ask": 31795,
+    "best_ask_qty": 65
+  },
+  "1107030": {
+    "timestamp": 1767086993960239986,
+    "best_bid": 80310,
+    "best_bid_qty": 65,
+    "best_ask": 80700,
+    "best_ask_qty": 260
+  },
+  "1107031": {
+    "timestamp": 1767086993708868448,
+    "best_bid": 190,
+    "best_bid_qty": 4160,
+    "best_ask": 195,
+    "best_ask_qty": 2730
+  },
+  "1106948": {
+    "timestamp": 1767086986518313145,
+    "best_bid": 210,
+    "best_bid_qty": 390,
+    "best_ask": 220,
+    "best_ask_qty": 65
+  },
+  "1107005": {
+    "timestamp": 1767086993963878002,
+    "best_bid": 3740,
+    "best_bid_qty": 65,
+    "best_ask": 3750,
+    "best_ask_qty": 1040
+  },
+  "1106965": {
+    "timestamp": 1767086993960207802,
+    "best_bid": 79315,
+    "best_bid_qty": 195,
+    "best_ask": 79790,
+    "best_ask_qty": 65
+  },
+  "1106961": {
+    "timestamp": 1767086993960144384,
+    "best_bid": 89335,
+    "best_bid_qty": 65,
+    "best_ask": 89600,
+    "best_ask_qty": 195
+  },
+  "1106926": {
+    "timestamp": 1767086947094935926,
+    "best_bid": 145,
+    "best_bid_qty": 3575,
+    "best_ask": 150,
+    "best_ask_qty": 5850
+  },
+  "1106922": {
+    "timestamp": 1767086965941417917,
+    "best_bid": 130,
+    "best_bid_qty": 3510,
+    "best_ask": 135,
+    "best_ask_qty": 7930
+  },
+  "1106941": {
+    "timestamp": 1767086992322797485,
+    "best_bid": 137815,
+    "best_bid_qty": 65,
+    "best_ask": 140730,
+    "best_ask_qty": 65
+  },
+  "1106993": {
+    "timestamp": 1767086993964744577,
+    "best_bid": 16635,
+    "best_bid_qty": 65,
+    "best_ask": 16665,
+    "best_ask_qty": 325
+  },
+  "1106966": {
+    "timestamp": 1767086993927498394,
+    "best_bid": 390,
+    "best_bid_qty": 6760,
+    "best_ask": 400,
+    "best_ask_qty": 9685
+  },
+  "1107071": {
+    "timestamp": 1767086986465067792,
+    "best_bid": 100,
+    "best_bid_qty": 1495,
+    "best_ask": 115,
+    "best_ask_qty": 455
+  },
+  "1106994": {
+    "timestamp": 1767086993964891890,
+    "best_bid": 7185,
+    "best_bid_qty": 1105,
+    "best_ask": 7205,
+    "best_ask_qty": 455
+  },
+  "1107026": {
+    "timestamp": 1767086993960206186,
+    "best_bid": 70435,
+    "best_bid_qty": 65,
+    "best_ask": 70695,
+    "best_ask_qty": 65
+  },
+  "1107067": {
+    "timestamp": 1767086975863888653,
+    "best_bid": 105,
+    "best_bid_qty": 390,
+    "best_ask": 120,
+    "best_ask_qty": 1495
+  },
+  "1106923": {
+    "timestamp": 1767086992322322189,
+    "best_bid": 182240,
+    "best_bid_qty": 65,
+    "best_ask": 186115,
+    "best_ask_qty": 65
+  },
+  "1106977": {
+    "timestamp": 1767086993960258807,
+    "best_bid": 50115,
+    "best_bid_qty": 195,
+    "best_ask": 50225,
+    "best_ask_qty": 65
+  },
+  "1106937": {
+    "timestamp": 1767086993931162118,
+    "best_bid": 148670,
+    "best_bid_qty": 65,
+    "best_ask": 149385,
+    "best_ask_qty": 65
+  },
+  "1107007": {
+    "timestamp": 1767086993964645415,
+    "best_bid": 2700,
+    "best_bid_qty": 520,
+    "best_ask": 2710,
+    "best_ask_qty": 520
+  },
+  "1106992": {
+    "timestamp": 1767086993963896004,
+    "best_bid": 5525,
+    "best_bid_qty": 845,
+    "best_ask": 5545,
+    "best_ask_qty": 780
+  },
+  "1107076": {
+    "timestamp": 1767086992998064011,
+    "best_bid": 193110,
+    "best_bid_qty": 65,
+    "best_ask": 197115,
+    "best_ask_qty": 65
+  },
+  "1106925": {
+    "timestamp": 1767086992322328572,
+    "best_bid": 177280,
+    "best_bid_qty": 65,
+    "best_ask": 181800,
+    "best_ask_qty": 65
+  },
+  "1107009": {
+    "timestamp": 1767086993964750806,
+    "best_bid": 1950,
+    "best_bid_qty": 910,
+    "best_ask": 1960,
+    "best_ask_qty": 2275
+  },
+  "1106973": {
+    "timestamp": 1767086993960125582,
+    "best_bid": 59705,
+    "best_bid_qty": 65,
+    "best_ask": 59985,
+    "best_ask_qty": 65
+  },
+  "1106967": {
+    "timestamp": 1767086993877660926,
+    "best_bid": 74400,
+    "best_bid_qty": 65,
+    "best_ask": 74990,
+    "best_ask_qty": 65
+  },
+  "1106949": {
+    "timestamp": 1767086993951423713,
+    "best_bid": 118080,
+    "best_bid_qty": 65,
+    "best_ask": 120790,
+    "best_ask_qty": 65
+  },
+  "1106953": {
+    "timestamp": 1767086993951438075,
+    "best_bid": 108255,
+    "best_bid_qty": 65,
+    "best_ask": 110810,
+    "best_ask_qty": 65
+  },
+  "1107018": {
+    "timestamp": 1767086993960124186,
+    "best_bid": 50885,
+    "best_bid_qty": 65,
+    "best_ask": 51005,
+    "best_ask_qty": 65
+  },
+  "1107004": {
+    "timestamp": 1767086993964031514,
+    "best_bid": 20540,
+    "best_bid_qty": 130,
+    "best_ask": 20580,
+    "best_ask_qty": 130
+  },
+  "1107042": {
+    "timestamp": 1767086993951370634,
+    "best_bid": 108920,
+    "best_bid_qty": 65,
+    "best_ask": 110855,
+    "best_ask_qty": 130
+  },
+  "1106963": {
+    "timestamp": 1767086993928715147,
+    "best_bid": 83755,
+    "best_bid_qty": 65,
+    "best_ask": 85485,
+    "best_ask_qty": 130
+  },
+  "1107011": {
+    "timestamp": 1767086993964027657,
+    "best_bid": 1420,
+    "best_bid_qty": 455,
+    "best_ask": 1425,
+    "best_ask_qty": 1690
+  },
+  "1107028": {
+    "timestamp": 1767086993942006887,
+    "best_bid": 75065,
+    "best_bid_qty": 130,
+    "best_ask": 76115,
+    "best_ask_qty": 65
+  },
+  "1106986": {
+    "timestamp": 1767086993963990463,
+    "best_bid": 2385,
+    "best_bid_qty": 2015,
+    "best_ask": 2395,
+    "best_ask_qty": 520
+  },
+  "1106938": {
+    "timestamp": 1767086979074417354,
+    "best_bid": 175,
+    "best_bid_qty": 29120,
+    "best_ask": 180,
+    "best_ask_qty": 71240
+  },
+  "1107014": {
+    "timestamp": 1767086993960187337,
+    "best_bid": 41400,
+    "best_bid_qty": 130,
+    "best_ask": 41530,
+    "best_ask_qty": 65
+  },
+  "1107038": {
+    "timestamp": 1767086993951364090,
+    "best_bid": 100195,
+    "best_bid_qty": 130,
+    "best_ask": 100560,
+    "best_ask_qty": 65
+  },
+  "1107024": {
+    "timestamp": 1767086993946586845,
+    "best_bid": 65485,
+    "best_bid_qty": 130,
+    "best_ask": 65955,
+    "best_ask_qty": 130
+  },
+  "1107051": {
+    "timestamp": 1767086988746326041,
+    "best_bid": 105,
+    "best_bid_qty": 132730,
+    "best_ask": 110,
+    "best_ask_qty": 7800
+  },
+  "1106928": {
+    "timestamp": 1767086874230459552,
+    "best_bid": 130,
+    "best_bid_qty": 1755,
+    "best_ask": 165,
+    "best_ask_qty": 650
+  },
+  "1107070": {
+    "timestamp": 1767086993436147012,
+    "best_bid": 178100,
+    "best_bid_qty": 65,
+    "best_ask": 181395,
+    "best_ask_qty": 65
+  },
+  "1106964": {
+    "timestamp": 1767086993919979721,
+    "best_bid": 355,
+    "best_bid_qty": 3575,
+    "best_ask": 360,
+    "best_ask_qty": 3640
+  },
+  "1106975": {
+    "timestamp": 1767086993953285132,
+    "best_bid": 54730,
+    "best_bid_qty": 65,
+    "best_ask": 55170,
+    "best_ask_qty": 65
+  },
+  "1107072": {
+    "timestamp": 1767086992322159065,
+    "best_bid": 183195,
+    "best_bid_qty": 65,
+    "best_ask": 187090,
+    "best_ask_qty": 65
+  },
+  "1107010": {
+    "timestamp": 1767086993960236817,
+    "best_bid": 32450,
+    "best_bid_qty": 65,
+    "best_ask": 32540,
+    "best_ask_qty": 130
+  }
+}
