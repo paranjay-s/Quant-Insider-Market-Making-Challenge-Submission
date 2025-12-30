@@ -1,0 +1,8 @@
+This directory has the output log CSVs-
+adaptive_trades.csv   , for adaptive strategy
+baseline_trades.csv   , for baseline strategy
+
+adaptive_trades.jsonl  , for adaptive strategy
+adaptive_trades.jsonl   , for adaptive strategy
+
+pnl_status.json , for checking the pnl at the end of the session
