@@ -89,6 +89,7 @@ The quoting equations are based on the **Avellaneda–Stoikov market-making mode
 
 - Uses a **fixed symmetric spread**
 - Quote prices:
+
 b̂ = m_t − (s0 / 2), 
 
 â = m_t + (s0 / 2)
@@ -118,8 +119,11 @@ I_t = (V_bt − V_at) / (V_bt + V_at)
 s_t = s0 (1 + α |I_t|)
 
 **Quote prices using adaptive strategy**
-b̂ = m_t − (s_t / 2) − k Q_t
-â = m_t + (s_t / 2) − k Q_t
+
+b̂ = m_t − (s_t / 2) − k*Q_t
+
+â = m_t + (s_t / 2) − k*Q_t
+
 where `|Q_t| ≤ Qmax`
 
 **Execution rules**
