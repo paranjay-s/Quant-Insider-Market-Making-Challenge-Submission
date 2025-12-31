@@ -4,7 +4,7 @@
 ---
 
 ## Index
-
+0. Quick Overview of the Whole Project
 1. Competition Context  
 2. Strategy Idea and Task  
    - A) Strategies (Baseline & Adaptive)  
@@ -18,6 +18,15 @@
 8. Competition Experience
 
 ---
+
+## 0. Quick Overview of the Whole Project
+
+- Built a real-time market making system for NIFTY options using live order book data via Nubra Python SDK  
+- Compared a baseline static-spread strategy with an adaptive Avellaneda–Stoikov–based strategy  
+- Used real-time 5-level depth data via WebSocket (prices, volumes, imbalance)  
+- Simulated executions, tracked inventory, cash, and mark-to-market PnL  
+- Logged trades and market states for both strategies on live data  
+- Performed post-trade analysis and visualization to compare performance
 
 ## 1. Competition Context
 
@@ -80,7 +89,8 @@ The quoting equations are based on the **Avellaneda–Stoikov market-making mode
 
 - Uses a **fixed symmetric spread**
 - Quote prices:
-b̂ = m_t − (s0 / 2)
+b̂ = m_t − (s0 / 2), 
+
 â = m_t + (s0 / 2)
 
 **Execution rules**
