@@ -6,7 +6,7 @@
 ## Index
 0. Quick Overview of the Whole Project
 1. Competition Context    
-2. Important Notes, Outputs, and Data Files  
+2. Important Notes, Outputs, and Data Files  (Read this before, for correct interpretation of the ouput CSVs)
 3. Visual Plots and Analysis  
 4. High-Level Execution Flow
 5. Strategy Idea and Task  
@@ -51,6 +51,17 @@ Although order execution was simulated, **all market data used was live**, meani
 
 **IMPORTANT:**  
 **All prices used throughout the project are in paise, not rupees.**
+
+### Note on Execution Rule Adjustment
+
+- The original execution rule was very strict and resulted in no trades on live market data  
+- Due to time and hardware constraints, a small relaxation was applied for testing  
+- A tiny price tolerance (a few ticks) was added when checking buy/sell conditions  
+- This helps simulate realistic market behavior where executions are not perfectly exact  
+- The change affects **only execution simulation**, not strategy logic or market data  
+- For testing, `execution_simulator(rule_adj).py` was used instead of `execution_simulator.py`  
+- Both versions are included in the `nubra_ism_py_format_submission` folder for correct interpretation of the output CSV files  
+
 
 ### Code Availability
 - Full solution provided in:
