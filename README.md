@@ -6,7 +6,7 @@
 ## Index
 0. Quick Overview of the Whole Project
 1. Competition Context    
-2. Important Notes, Outputs, and Data Files                 (Read this before, for correct interpretation of the output CSV files)
+2. Important Notes, Outputs, and Data Files       ***(Read this before, for correct interpretation of the output CSV files)***
 3. Visual Plots and Analysis  
 4. High-Level Execution Flow
 5. Strategy Idea and Task  
