@@ -5,14 +5,14 @@
 
 ## Index
 0. Quick Overview of the Whole Project
-1. Competition Context  
-2. Strategy Idea and Task  
+1. Competition Context    
+2. Important Notes, Outputs, and Data Files  
+3. Visual Plots and Analysis  
+4. High-Level Execution Flow
+5. Strategy Idea and Task  
    - A) Strategies (Baseline & Adaptive)  
    - B) Parameters  
-   - C) Assumptions  
-3. Important Notes, Outputs, and Data Files  
-4. Visual Plots and Analysis  
-5. High-Level Execution Flow  
+   - C) Assumptions
 6. Code Structure and File-wise Working  
 7. Next Steps  
 8. Competition Experience
@@ -47,7 +47,60 @@ Although order execution was simulated, **all market data used was live**, meani
 
 ---
 
-## 2. Strategy Idea and Task
+## 2. Important Notes, Outputs, and Data Files
+
+**IMPORTANT:**  
+**All prices used throughout the project are in paise, not rupees.**
+
+### Code Availability
+- Full solution provided in:
+  - Jupyter Notebook format     in  "nubra_ism_jupyter_notebook_"
+  - Clean, modular `.py` files  in  "nubra_ism_py_format_submission"
+Users may use either format.
+
+### Output Files
+
+- `baseline_trades.csv`  
+  Trade log for baseline strategy
+
+- `adaptive_trades.csv`  
+  Trade log for adaptive strategy
+
+- `pnl_status.json`  
+  Final session snapshot (PnL, inventory, quotes, market state)
+
+- `latest_orderbooks.json`  
+  Continuously updated snapshot of the latest WebSocket order book data
+
+---
+
+## 3. Visual Plots and Analysis
+
+All plots are generated in `visualizer.ipynb`.
+
+Plots include:
+- PnL curves (Baseline vs Adaptive)
+- Inventory over time
+- Drawdown comparison
+- Strategy performance metrics
+  
+<img width="1011" height="1372" alt="nbs" src="https://github.com/user-attachments/assets/390839fd-0c95-4a7a-b96a-615ff1feb287" />
+
+
+## 4. High-Level Execution Flow
+
+1. Authenticate using the Nubra API  
+2. Fetch NIFTY option instruments (CE and PE across ITM, ATM, and OTM strikes)  
+3. Start the WebSocket to receive real-time order book data  
+4. Maintain the latest order book snapshot in shared memory  
+5. Run baseline and adaptive strategies in parallel  
+6. Simulate executions based on quote crossing logic  
+7. Log trades and mark-to-market PnL  
+8. Convert trade logs from JSONL to CSV format  
+9. Visualize results using the analysis notebook  
+
+---
+## 5. Strategy Idea and Task
 
 The objective is to **compare a simple baseline market-making strategy against an adaptive market-making strategy**, inspired by professional trading models.
 
@@ -198,60 +251,6 @@ b̂_t = m_t − s_t/2 − k Q_t
 
 If long → want to sell faster  
 If short → want to buy faster  
-
----
-
-## 3. Important Notes, Outputs, and Data Files
-
-**IMPORTANT:**  
-**All prices used throughout the project are in paise, not rupees.**
-
-### Code Availability
-- Full solution provided in:
-  - Jupyter Notebook format     in  "nubra_ism_jupyter_notebook_"
-  - Clean, modular `.py` files  in  "nubra_ism_py_format_submission"
-Users may use either format.
-
-### Output Files
-
-- `baseline_trades.csv`  
-  Trade log for baseline strategy
-
-- `adaptive_trades.csv`  
-  Trade log for adaptive strategy
-
-- `pnl_status.json`  
-  Final session snapshot (PnL, inventory, quotes, market state)
-
-- `latest_orderbooks.json`  
-  Continuously updated snapshot of the latest WebSocket order book data
-
----
-
-## 4. Visual Plots and Analysis
-
-All plots are generated in `visualizer.ipynb`.
-
-Plots include:
-- PnL curves (Baseline vs Adaptive)
-- Inventory over time
-- Drawdown comparison
-- Strategy performance metrics
-  
-<img width="1011" height="1372" alt="nbs" src="https://github.com/user-attachments/assets/390839fd-0c95-4a7a-b96a-615ff1feb287" />
-
-
-## 5. High-Level Execution Flow
-
-1. Authenticate using the Nubra API  
-2. Fetch NIFTY option instruments (CE and PE across ITM, ATM, and OTM strikes)  
-3. Start the WebSocket to receive real-time order book data  
-4. Maintain the latest order book snapshot in shared memory  
-5. Run baseline and adaptive strategies in parallel  
-6. Simulate executions based on quote crossing logic  
-7. Log trades and mark-to-market PnL  
-8. Convert trade logs from JSONL to CSV format  
-9. Visualize results using the analysis notebook  
 
 ---
 
